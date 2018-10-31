@@ -6,7 +6,7 @@
 
 선린인터넷고등학교 청사진 03기
 
-주분야는 WEB Hacking 이었으나 최근 Pwnable과 Pwnable을 공부중
+주분야는 WEB Hacking 이었으나 최근 Pwnable을 공부중
 
 # 수상실적
 제3회 한세사이버보안고등학교 정보보안콘테스트 3위
